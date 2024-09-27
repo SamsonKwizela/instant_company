@@ -3,11 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
+    background-image: url('https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=600');
     
 }
 
 header {
-    background: linear-gradient(to right, #333, #444);
+    background: linear-gradient(to right, #372983, #0d057e);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
     position: fixed;
     width: 100%;
@@ -70,10 +71,13 @@ header {
     transform: scale(1.1);
 }
 #section_one{
-    background-image: url('https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-image: url('https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=600');
     margin-top: 100px;
     color: blue;
 
+}
+#section_two{
+    
 }
 @keyframes slideDown {
     from {
