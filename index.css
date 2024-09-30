@@ -79,6 +79,9 @@ header {
 #section_two{
     
 }
+.section_two_heading{
+text-align: center;
+}
 @keyframes slideDown {
     from {
         opacity: 0;
